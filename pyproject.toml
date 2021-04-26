@@ -10,4 +10,5 @@ home-page = "https://github.com/iceraj/icedtools"
 classifiers = [ "License :: OSI Approved :: MIT License",]
 description-file = "README.md"
 requires-python = ">=3.7"
+requires = [ ]
 
